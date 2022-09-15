@@ -49,5 +49,6 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 
 ## More content
 
+https://www.linkedin.com/learning/isc-2-certified-in-cybersecurity-cc-cert-prep
 https://www.youtube.com/watch?v=vzepD4rKVYg&ab_channel=Caf%C3%A9Comredes
 https://www.youtube.com/watch?v=81SA98_faG8&ab_channel=NetworkWizkid
