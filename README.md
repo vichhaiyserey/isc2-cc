@@ -45,4 +45,9 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 33. Describe the concepts of configuration management. 
 34. Explain the application of common security policies. 
 35. Discuss the importance of security awareness training. 
-36. Practice the terminology and review concepts of network operations.  
+36. Practice the terminology and review concepts of network operations.
+
+## More content
+
+https://www.youtube.com/watch?v=vzepD4rKVYg&ab_channel=Caf%C3%A9Comredes
+https://www.youtube.com/watch?v=81SA98_faG8&ab_channel=NetworkWizkid
